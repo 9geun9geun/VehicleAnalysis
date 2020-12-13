@@ -7,3 +7,5 @@ Also added the Chatbot for the Turners Auction FAQ questions.
 
 Site here: [Vehicle-Analysis](https://vehicleanalysis-for-turners-keunmo.netlify.app/)
 
+![](Vehicle-analysis.JPG)
+
